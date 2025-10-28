@@ -39,6 +39,8 @@
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
 |~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
 |~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
+|[fafa002](https://github.com/fafa002/yf2025)|http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt|IPV4|✔️|✔️|
+
 
 直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。也可以先输入点播源，这样会自动填写点播源自带的直播源。
 
